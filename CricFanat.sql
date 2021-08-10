@@ -152,4 +152,4 @@ from fanalysis
 where inning = 2
 group by batsman
 order by 2 desc;
-
+-- Congrats tp become a Fanalyst
